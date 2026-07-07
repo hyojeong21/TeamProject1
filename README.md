@@ -1,8 +1,10 @@
 # 📚 위아북스
 
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
+
 
 > **도서 검색부터 상세 조회, 장바구니, 회원 기능까지 제공하는 온라인 서점 웹 서비스**
 
@@ -17,7 +19,7 @@
 | **프로젝트명** | 위아북스 |
 | **진행 형태** | 팀 프로젝트 |
 | **개발 기간** | 2026.01.13 ~ 2026.01.23 |
-| **담당 역할** | 메인 페이지 UI 및 기능 구현 |
+| **담당 역할** | 메인 페이지 기능 및 UI 구현 |
 | **목표** | 검색 중심 이용자와 탐색 중심 이용자의 이용 방식을 모두 고려한 사용자 중심 도서 구매 플랫폼 구현 |
 
 ---
@@ -85,9 +87,16 @@
 
 ### Front-End
 
-- HTML5
+- React
+- React Router
+
+### Language
+
+- JavaScript
+
+### Styling
+
 - CSS3
-- JavaScript (ES6)
 
 ---
 
@@ -129,7 +138,6 @@ index.html
 
 Vanilla JavaScript를 활용하여
 
-- 도서 목록 출력
 - 상세 페이지 이동
 - 검색 결과 출력
 - 장바구니 기능
@@ -173,17 +181,6 @@ Vanilla JavaScript를 활용하여
 브라우저가 자동으로 실행되며 프로젝트를 확인할 수 있습니다.
 
 > **또는** `index.html` 파일을 브라우저에서 직접 실행하여 확인할 수도 있습니다.
-
----
-
-# 📦 프로젝트 구성
-
-| 폴더 | 설명 |
-|------|------|
-| assets/css | 스타일 파일 |
-| assets/js | JavaScript 기능 구현 |
-| assets/imgs | 프로젝트 이미지 |
-| pages | 기능별 페이지 |
 
 ---
 
